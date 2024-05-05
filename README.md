@@ -36,49 +36,18 @@ My university degree is in Public Accounting, certified by the Professional Coun
 Training: Beginner in Programming - 59 hours
 
 Courses:
-Programming logic: immerse yourself in programming with JavaScript 8 hours.
-Programming logic: explore functions and lists - 8hrs.
-HTML5 and CSS3 part 1: My first web page - 8 hours.
-HTML5 and CSS3 part 2: Positioning, lists and navigation - 8hrs.
-HTML5 and CSS3 part 3: Working with forms and tables - 8 hours.
-HTML5 and CSS3 part 4: Advancing in CSS - 10hrs.
-Git and GitHub: repository, commit and versions - 6 hours.
+Programming logic.
+HTML5 and CSS3.
+Git and GitHub.
 
 Supplementary content:
-Artigo: 5 doubts for those who want to start a programming career | Alura Online Courses - 30min
-Artigo: HTML, CSS and Javascript, what are the differences? - 30 min
-Artigo: Guide on how to install Git on different operating systems | Alura Online Courses - 30min
-Artigo: Starting a repository with Git - 30min
-Artigo: Good practices in git: avoiding errors | Alura Online Courses - 30min
+Artigo.
 
 Training: Programming logic with JavaScript - 24 hours
 
-Courses:
-Programming logic: immerse yourself in programming with JavaScript - 8 hours.
-Programming logic: explore functions and lists - 8hrs.
-Git and GitHub: repository, commit and versions - 6 hours.
+### Soft Skill
 
-Supplementary content:
-Artigo: 5 doubts for those who want to start a programming career - 30min
-Artigo: Good practices in git: avoiding errors | Alura Online Courses - 30min
-Artigo: What is front-end and back-end? - 30 min
-
-Training: Entrepreneurship, Agility and Professional Protagonism - 39 hours
-
-Courses:
-Career development: market demand - 6 hours.
-Career development: how to get to the desired position - 6 hours.
-Professional purpose: be the protagonist of your career - 6 hours.
-Career Transition: A Guide to the Technology Field - 6hrs.
-Fundamentals of Agility: First steps for agile transformation - 6 hours.
-Entrepreneurship: From the idea to the business plan - 6 hours.
-
-Supplementary content:
-Artigo: Generalists vs Specialists - 30min
-Artigo: 5 doubts for those who want to start a programming career - 30min
-Artigo: I want to work in a startup. What I need to do? - 30 min
-Artigo: The importance of LinkedIn for your professional career | Alura Online Courses - 30min
-Artigo: Elevator pitch: learn to use this efficient presentation method | Alura Online Courses - 30min
+Training: Entrepreneurship, Agility and Professional Protagonism.
 
 Training: Personal Development - 33 hours
 
@@ -88,28 +57,14 @@ LinkedIn: How to make your profile work for you. - 6 hours.
 Focus: Focusing brings more results for everyday life. - 8 hours.
 Habits: Be productive to meet your personal goals. - 8 hours
 
-Supplementary content:
-Artigo: 4 essential points that Gui Silveira teaches us to learn how to learn. - 30min.
-Artigo: The importance of LinkedIn for your professional career. - 30min.
-Artigo: Planning my studies | Alura Online Courses. - 30min.
-Artigo: 5 ways to help you create better habits | Alura Online Courses - 30min.
-Artigo: Pomodoro Technique: manage your time simply | Alura Online Courses - 30min.
-Artigo: 5 steps for more assertive communication | Alura Online Courses - 30min.
-
 Training: My career - 26 hours
 
 Courses:
 
-Career development: market demand - 6 hours.
-Career development: how to get to the desired position - 6 hours.
-Professional purpose: be the protagonist of your career - 6 hours.
-Career Transition: A Guide to the Technology Field - 6hrs.
+Career development.
+Professional purpose.
+Career Transition.
 
-Supplementary content:
-Artigo: Generalists vs Specialists - 30min
-Artigo: 5 doubts for those who want to start a programming career - 30min
-Artigo: I want to work in a startup. What I need to do? - 30 min
-Artigo: The importance of LinkedIn for your professional career | Alura Online Courses - 30min
 
 ### Codo a Codo (July-December 2023)
 
