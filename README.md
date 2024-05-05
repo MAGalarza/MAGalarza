@@ -54,9 +54,10 @@ Artigo: Good practices in git: avoiding errors | Alura Online Courses - 30min
 Training: Programming logic with JavaScript - 24 hours
 
 Courses:
-Programming logic: immerse yourself in programming with JavaScript (from 01/17/2024 to 01/24/2024) 8 hours
-Programming logic: explore functions and lists (from 01/30/2024 to 02/06/2024) 8hrs
-Git and GitHub: repository, commit and versions (from 01/31/2024 to 01/31/2024) 6 hours
+Programming logic: immerse yourself in programming with JavaScript - 8 hours.
+Programming logic: explore functions and lists - 8hrs.
+Git and GitHub: repository, commit and versions - 6 hours.
+
 Supplementary content:
 Artigo: 5 doubts for those who want to start a programming career - 30min
 Artigo: Good practices in git: avoiding errors | Alura Online Courses - 30min
@@ -65,12 +66,13 @@ Artigo: What is front-end and back-end? - 30 min
 Training: Entrepreneurship, Agility and Professional Protagonism - 39 hours
 
 Courses:
-Career development: market demand (from 04/05/2024 to 04/14/2024) 6 hours
-Career development: how to get to the desired position (from 04/14/2024 to 04/15/2024) 6 hours
-Professional purpose: be the protagonist of your career (from 03/21/2024 to 04/05/2024) 6 hours
-Career Transition: A Guide to the Technology Field (04/16/2024 to 04/17/2024) 6hrs
-Fundamentals of Agility: First steps for agile transformation (from 04/17/2024 to 04/17/2024) 6 hours
-Entrepreneurship: From the idea to the business plan (from 04/15/2024 to 04/16/2024) 6 hours
+Career development: market demand - 6 hours.
+Career development: how to get to the desired position - 6 hours.
+Professional purpose: be the protagonist of your career - 6 hours.
+Career Transition: A Guide to the Technology Field - 6hrs.
+Fundamentals of Agility: First steps for agile transformation - 6 hours.
+Entrepreneurship: From the idea to the business plan - 6 hours.
+
 Supplementary content:
 Artigo: Generalists vs Specialists - 30min
 Artigo: 5 doubts for those who want to start a programming career - 30min
@@ -81,26 +83,28 @@ Artigo: Elevator pitch: learn to use this efficient presentation method | Alura 
 Training: Personal Development - 33 hours
 
 Courses:
-Learning to learn: techniques for your self-development (from 01/30/2024 to 01/30/2024) 8 hours
-LinkedIn: How to make your profile work for you (from 02/16/2024 to 02/27/2024) 6 hours
-Focus: Focusing brings more results for everyday life (from 01/29/2024 to 01/30/2024) 8 hours
-Habits: Be productive to meet your personal goals (from 01/17/2024 to 01/25/2024) 8 hours
+Learning to learn: techniques for your self-development. - 8 hours.
+LinkedIn: How to make your profile work for you. - 6 hours.
+Focus: Focusing brings more results for everyday life. - 8 hours.
+Habits: Be productive to meet your personal goals. - 8 hours
 
 Supplementary content:
-Artigo: 4 essential points that Gui Silveira teaches us to learn how to learn - 30min
-Artigo: The importance of LinkedIn for your professional career - 30min
-Artigo: Planning my studies | Alura Online Courses - 30min
-Artigo: 5 ways to help you create better habits | Alura Online Courses - 30min
-Artigo: Pomodoro Technique: manage your time simply | Alura Online Courses - 30min
-Artigo: 5 steps for more assertive communication | Alura Online Courses - 30min
+Artigo: 4 essential points that Gui Silveira teaches us to learn how to learn. - 30min.
+Artigo: The importance of LinkedIn for your professional career. - 30min.
+Artigo: Planning my studies | Alura Online Courses. - 30min.
+Artigo: 5 ways to help you create better habits | Alura Online Courses - 30min.
+Artigo: Pomodoro Technique: manage your time simply | Alura Online Courses - 30min.
+Artigo: 5 steps for more assertive communication | Alura Online Courses - 30min.
 
 Training: My career - 26 hours
 
 Courses:
-Career development: market demand (from 04/05/2024 to 04/14/2024) 6 hours
-Career development: how to get to the desired position (from 04/14/2024 to 04/15/2024) 6 hours
-Professional purpose: be the protagonist of your career (from 03/21/2024 to 04/05/2024) 6 hours
-Career Transition: A Guide to the Technology Field (04/16/2024 to 04/17/2024) 6hrs
+
+Career development: market demand - 6 hours.
+Career development: how to get to the desired position - 6 hours.
+Professional purpose: be the protagonist of your career - 6 hours.
+Career Transition: A Guide to the Technology Field - 6hrs.
+
 Supplementary content:
 Artigo: Generalists vs Specialists - 30min
 Artigo: 5 doubts for those who want to start a programming career - 30min
@@ -124,5 +128,6 @@ Artigo: The importance of LinkedIn for your professional career | Alura Online C
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="50" heidth="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="50" heidth="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="50" heidth="50"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vue" alt="Vue" width="50" heidth="50"/>&nbsp;
 </div>
 
