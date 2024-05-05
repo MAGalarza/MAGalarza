@@ -36,13 +36,13 @@ My university degree is in Public Accounting, certified by the Professional Coun
 Training: Beginner in Programming - 59 hours
 
 Courses:
-Programming logic: immerse yourself in programming with JavaScript (from 01/17/2024 to 01/24/2024) 8 hours
-Programming logic: explore functions and lists (from 01/30/2024 to 02/06/2024) 8hrs
-HTML5 and CSS3 part 1: My first web page (from 01/25/2024 to 01/29/2024) 8 hours
-HTML5 and CSS3 part 2: Positioning, lists and navigation (from 02/06/2024 to 02/08/2024) 8hrs
-HTML5 and CSS3 part 3: Working with forms and tables (from 02/08/2024 to 02/16/2024) 8 hours
-HTML5 and CSS3 part 4: Advancing in CSS (from 02/16/2024 to 02/26/2024) 10hrs
-Git and GitHub: repository, commit and versions (from 01/31/2024 to 01/31/2024) 6 hours
+Programming logic: immerse yourself in programming with JavaScript 8 hours.
+Programming logic: explore functions and lists - 8hrs.
+HTML5 and CSS3 part 1: My first web page - 8 hours.
+HTML5 and CSS3 part 2: Positioning, lists and navigation - 8hrs.
+HTML5 and CSS3 part 3: Working with forms and tables - 8 hours.
+HTML5 and CSS3 part 4: Advancing in CSS - 10hrs.
+Git and GitHub: repository, commit and versions - 6 hours.
 
 Supplementary content:
 Artigo: 5 doubts for those who want to start a programming career | Alura Online Courses - 30min
