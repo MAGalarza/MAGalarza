@@ -19,7 +19,7 @@ I am currently in a reconversion process, moving into the incredible and dizzyin
 
 
 
-### Academic training
+## Academic training
 
 My university degree is in Public Accounting, certified by the Professional Council of Economic Sciences of the Autonomous City of Buenos Aires and I have a postgraduate degree in Corporate Finance.
 
@@ -27,7 +27,7 @@ My university degree is in Public Accounting, certified by the Professional Coun
 
 
 
-### Training courses
+## Training courses
 
 
 
@@ -70,7 +70,7 @@ Career Transition.
 
 ### Full Stack Python
 
-### :hammer_and_wrench: Languages & Dev Tools : 
+## :hammer_and_wrench: Languages & Dev Tools : 
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML 5" alt="HTML 5" width="50" heidth="50"/>&nbsp;
